@@ -9,10 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "encoding": "^0.1.13",
     "next": "13.5.4",
+    "node-storage-polyfill": "^1.0.0",
     "react": "^18",
     "react-dom": "^18",
-    "xenon-view-sdk": "0.1.6"
+    "xenon-view-sdk": "^0.1.10"
   },
   "devDependencies": {
     "@types/node": "^20",
